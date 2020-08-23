@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "postcss-modules": "^3.2.1",
+    "tailwindcss": "^1.7.3",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
